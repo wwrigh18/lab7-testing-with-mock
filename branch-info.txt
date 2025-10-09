@@ -1,5 +1,13 @@
 Branches in this repo (with details):
 
+- dependabot/docker/presidio-anonymizer/python-3.14-windowsservercore
+  SHA: 00d5f9116cb0fed9d6e29f8e74c7db26a001b549
+  Commits: 4
+  Recent commits:
+    00d5f91 | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-09T17:03:36Z | Bump python in /presidio-anonymizer
+    ea6e339 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T17:02:43Z | Auto-update branch-info.txt
+    40528ac | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T17:02:06Z | Auto-update branch-info.txt
+    ed713e2 | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-09T13:01:55-04:00 | Initial commit
 - dependabot/github_actions/actions/checkout-5
   SHA: 6c73848abc7417664dc8b2392c42937589da4a17
   Commits: 3
@@ -8,8 +16,9 @@ Branches in this repo (with details):
     40528ac | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T17:02:06Z | Auto-update branch-info.txt
     ed713e2 | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-09T13:01:55-04:00 | Initial commit
 - main
-  SHA: 40528acd3b6f58da404e4c833f4249897aa2fcc3
-  Commits: 2
+  SHA: ea6e339725abfa2efc2b292bd8bedfdcaf148bd9
+  Commits: 3
   Recent commits:
+    ea6e339 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T17:02:43Z | Auto-update branch-info.txt
     40528ac | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T17:02:06Z | Auto-update branch-info.txt
     ed713e2 | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-09T13:01:55-04:00 | Initial commit
