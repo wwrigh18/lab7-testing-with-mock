@@ -16,20 +16,20 @@ Branches in this repo (with details):
     40528ac | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T17:02:06Z | Auto-update branch-info.txt
     ed713e2 | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-09T13:01:55-04:00 | Initial commit
 - lab7
-  SHA: 8303ddaf7d3962b5c56fd74193e041227f88d8b8
-  Commits: 8
+  SHA: b88018ceea520e4d7722185c24a936c2ba04d032
+  Commits: 9
   Recent commits:
+    b88018c | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: William Wright <162603673+wwrigh18@users.noreply.github.com> | Date: 2025-10-09T18:56:49Z | Defined test_given_conflict_input_then_merged_correctly and made sure to test that the anonymizer called the debug function, task 5 complete
     8303dda | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: William Wright <162603673+wwrigh18@users.noreply.github.com> | Date: 2025-10-09T18:38:17Z | Created test_valid_keys and parameterized it to test for the 6 valid key sizes, task 4 complete
     920ebc9 | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: William Wright <162603673+wwrigh18@users.noreply.github.com> | Date: 2025-10-09T18:11:26Z | Fixed test_given_verifying_an_invalid_length_bytes_key_then_ipe_raised with a mock if the is_valid_key_size function so that the test succeeds, task 3 complete
     fe448cf | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: William Wright <162603673+wwrigh18@users.noreply.github.com> | Date: 2025-10-09T18:00:15Z | Created test_operator_name and test_operator_type while exploring the encrypt operator, task 2 complete
     6846e11 | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: William Wright <162603673+wwrigh18@users.noreply.github.com> | Date: 2025-10-09T17:35:09Z | Altered test_logger to verify that RecognizerResult logs, task 1 complete
-    44a7bdd | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T17:03:44Z | Auto-update branch-info.txt
 - main
-  SHA: 6ce208bafc453bb25684c768e742959e49019466
-  Commits: 7
+  SHA: eb43fe5a25b2d010043f7cfde1fe0221927275c2
+  Commits: 8
   Recent commits:
+    eb43fe5 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T18:38:29Z | Auto-update branch-info.txt
     6ce208b | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T18:11:51Z | Auto-update branch-info.txt
     b239193 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T18:00:38Z | Auto-update branch-info.txt
     c7aa9f8 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T17:36:55Z | Auto-update branch-info.txt
     44a7bdd | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T17:03:44Z | Auto-update branch-info.txt
-    ea6e339 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T17:02:43Z | Auto-update branch-info.txt
