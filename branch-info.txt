@@ -25,11 +25,11 @@ Branches in this repo (with details):
     fe448cf | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: William Wright <162603673+wwrigh18@users.noreply.github.com> | Date: 2025-10-09T18:00:15Z | Created test_operator_name and test_operator_type while exploring the encrypt operator, task 2 complete
     6846e11 | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: William Wright <162603673+wwrigh18@users.noreply.github.com> | Date: 2025-10-09T17:35:09Z | Altered test_logger to verify that RecognizerResult logs, task 1 complete
 - main
-  SHA: eb43fe5a25b2d010043f7cfde1fe0221927275c2
-  Commits: 8
+  SHA: 84a829dc9f326ed1d5913aeba5aa46327d0abf3c
+  Commits: 15
   Recent commits:
+    84a829d | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: William Wright <162603673+wwrigh18@users.noreply.github.com> | Date: 2025-10-09T21:05:54Z | Merge branch 'lab7'
+    114e869 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T18:57:11Z | Auto-update branch-info.txt
+    b88018c | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: William Wright <162603673+wwrigh18@users.noreply.github.com> | Date: 2025-10-09T18:56:49Z | Defined test_given_conflict_input_then_merged_correctly and made sure to test that the anonymizer called the debug function, task 5 complete
     eb43fe5 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T18:38:29Z | Auto-update branch-info.txt
-    6ce208b | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T18:11:51Z | Auto-update branch-info.txt
-    b239193 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T18:00:38Z | Auto-update branch-info.txt
-    c7aa9f8 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T17:36:55Z | Auto-update branch-info.txt
-    44a7bdd | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T17:03:44Z | Auto-update branch-info.txt
+    8303dda | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: William Wright <162603673+wwrigh18@users.noreply.github.com> | Date: 2025-10-09T18:38:17Z | Created test_valid_keys and parameterized it to test for the 6 valid key sizes, task 4 complete
