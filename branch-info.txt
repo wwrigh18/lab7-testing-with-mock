@@ -16,18 +16,19 @@ Branches in this repo (with details):
     40528ac | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T17:02:06Z | Auto-update branch-info.txt
     ed713e2 | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-09T13:01:55-04:00 | Initial commit
 - lab7
-  SHA: 6846e11dd68d1f0f9de63a976a7557055ca0990d
-  Commits: 5
+  SHA: fe448cf1ad6f68c995d04068ecde980a7b8f9ae1
+  Commits: 6
   Recent commits:
+    fe448cf | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: William Wright <162603673+wwrigh18@users.noreply.github.com> | Date: 2025-10-09T18:00:15Z | Created test_operator_name and test_operator_type while exploring the encrypt operator, task 2 complete
     6846e11 | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: William Wright <162603673+wwrigh18@users.noreply.github.com> | Date: 2025-10-09T17:35:09Z | Altered test_logger to verify that RecognizerResult logs, task 1 complete
     44a7bdd | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T17:03:44Z | Auto-update branch-info.txt
     ea6e339 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T17:02:43Z | Auto-update branch-info.txt
     40528ac | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T17:02:06Z | Auto-update branch-info.txt
-    ed713e2 | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-09T13:01:55-04:00 | Initial commit
 - main
-  SHA: 44a7bddf00813b2a513f61c2bcc94ec6f1988aa5
-  Commits: 4
+  SHA: c7aa9f82061059508f2a61a327cd4940657ddf05
+  Commits: 5
   Recent commits:
+    c7aa9f8 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T17:36:55Z | Auto-update branch-info.txt
     44a7bdd | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T17:03:44Z | Auto-update branch-info.txt
     ea6e339 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T17:02:43Z | Auto-update branch-info.txt
     40528ac | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T17:02:06Z | Auto-update branch-info.txt
