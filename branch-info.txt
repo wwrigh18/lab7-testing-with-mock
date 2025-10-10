@@ -25,11 +25,11 @@ Branches in this repo (with details):
     8303dda | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: William Wright <162603673+wwrigh18@users.noreply.github.com> | Date: 2025-10-09T18:38:17Z | Created test_valid_keys and parameterized it to test for the 6 valid key sizes, task 4 complete
     920ebc9 | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: William Wright <162603673+wwrigh18@users.noreply.github.com> | Date: 2025-10-09T18:11:26Z | Fixed test_given_verifying_an_invalid_length_bytes_key_then_ipe_raised with a mock if the is_valid_key_size function so that the test succeeds, task 3 complete
 - main
-  SHA: 2c56536e61ad069a303f674b2f7958dfdac037fc
-  Commits: 19
+  SHA: 91e9375cdcb71b7e1cadd4ed68b88d9ef0904eec
+  Commits: 22
   Recent commits:
+    91e9375 | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: William Wright <162603673+wwrigh18@users.noreply.github.com> | Date: 2025-10-10T00:40:19Z | Merge branch 'lab7'
+    10db381 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-10T00:40:06Z | Auto-update branch-info.txt
+    010b600 | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: William Wright <162603673+wwrigh18@users.noreply.github.com> | Date: 2025-10-10T00:39:39Z | Another attempt at fixing task 1
     2c56536 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-10T00:25:03Z | Auto-update branch-info.txt
     cdeb30f | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: William Wright <162603673+wwrigh18@users.noreply.github.com> | Date: 2025-10-10T00:24:45Z | Merge branch 'lab7'
-    42c281d | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: William Wright <162603673+wwrigh18@users.noreply.github.com> | Date: 2025-10-10T00:24:21Z | Partial fix to task 1, theoretically fixed the values portion
-    e768a9d | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T21:08:28Z | Auto-update branch-info.txt
-    84a829d | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: William Wright <162603673+wwrigh18@users.noreply.github.com> | Date: 2025-10-09T21:05:54Z | Merge branch 'lab7'
