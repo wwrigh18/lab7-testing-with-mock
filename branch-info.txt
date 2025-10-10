@@ -16,20 +16,20 @@ Branches in this repo (with details):
     40528ac | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T17:02:06Z | Auto-update branch-info.txt
     ed713e2 | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-09T13:01:55-04:00 | Initial commit
 - lab7
-  SHA: b88018ceea520e4d7722185c24a936c2ba04d032
-  Commits: 9
+  SHA: 010b600d889628ebd373ec5bf2118b4c191e55a1
+  Commits: 11
   Recent commits:
+    010b600 | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: William Wright <162603673+wwrigh18@users.noreply.github.com> | Date: 2025-10-10T00:39:39Z | Another attempt at fixing task 1
+    42c281d | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: William Wright <162603673+wwrigh18@users.noreply.github.com> | Date: 2025-10-10T00:24:21Z | Partial fix to task 1, theoretically fixed the values portion
     b88018c | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: William Wright <162603673+wwrigh18@users.noreply.github.com> | Date: 2025-10-09T18:56:49Z | Defined test_given_conflict_input_then_merged_correctly and made sure to test that the anonymizer called the debug function, task 5 complete
     8303dda | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: William Wright <162603673+wwrigh18@users.noreply.github.com> | Date: 2025-10-09T18:38:17Z | Created test_valid_keys and parameterized it to test for the 6 valid key sizes, task 4 complete
     920ebc9 | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: William Wright <162603673+wwrigh18@users.noreply.github.com> | Date: 2025-10-09T18:11:26Z | Fixed test_given_verifying_an_invalid_length_bytes_key_then_ipe_raised with a mock if the is_valid_key_size function so that the test succeeds, task 3 complete
-    fe448cf | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: William Wright <162603673+wwrigh18@users.noreply.github.com> | Date: 2025-10-09T18:00:15Z | Created test_operator_name and test_operator_type while exploring the encrypt operator, task 2 complete
-    6846e11 | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: William Wright <162603673+wwrigh18@users.noreply.github.com> | Date: 2025-10-09T17:35:09Z | Altered test_logger to verify that RecognizerResult logs, task 1 complete
 - main
-  SHA: cdeb30f2ede95e78352e4b3c9966ed8d9cd4191c
-  Commits: 18
+  SHA: 2c56536e61ad069a303f674b2f7958dfdac037fc
+  Commits: 19
   Recent commits:
+    2c56536 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-10T00:25:03Z | Auto-update branch-info.txt
     cdeb30f | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: William Wright <162603673+wwrigh18@users.noreply.github.com> | Date: 2025-10-10T00:24:45Z | Merge branch 'lab7'
     42c281d | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: William Wright <162603673+wwrigh18@users.noreply.github.com> | Date: 2025-10-10T00:24:21Z | Partial fix to task 1, theoretically fixed the values portion
     e768a9d | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T21:08:28Z | Auto-update branch-info.txt
     84a829d | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: William Wright <162603673+wwrigh18@users.noreply.github.com> | Date: 2025-10-09T21:05:54Z | Merge branch 'lab7'
-    114e869 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T18:57:11Z | Auto-update branch-info.txt
