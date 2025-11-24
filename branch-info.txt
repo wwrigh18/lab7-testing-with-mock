@@ -8,13 +8,15 @@ Branches in this repo (with details):
     ea6e339 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T17:02:43Z | Auto-update branch-info.txt
     40528ac | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T17:02:06Z | Auto-update branch-info.txt
     ed713e2 | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-09T13:01:55-04:00 | Initial commit
-- dependabot/github_actions/actions/checkout-5
-  SHA: 6c73848abc7417664dc8b2392c42937589da4a17
-  Commits: 3
+- dependabot/github_actions/actions/checkout-6
+  SHA: 7d46c5d18ff540026a28c01c3d995e7975c744c8
+  Commits: 24
   Recent commits:
-    6c73848 | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-09T17:02:34Z | Bump actions/checkout from 3 to 5
-    40528ac | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T17:02:06Z | Auto-update branch-info.txt
-    ed713e2 | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-09T13:01:55-04:00 | Initial commit
+    7d46c5d | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-11-24T03:44:47Z | Bump actions/checkout from 3 to 6
+    2d7c27a | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-10T00:40:32Z | Auto-update branch-info.txt
+    91e9375 | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: William Wright <162603673+wwrigh18@users.noreply.github.com> | Date: 2025-10-10T00:40:19Z | Merge branch 'lab7'
+    10db381 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-10T00:40:06Z | Auto-update branch-info.txt
+    010b600 | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: William Wright <162603673+wwrigh18@users.noreply.github.com> | Date: 2025-10-10T00:39:39Z | Another attempt at fixing task 1
 - lab7
   SHA: 010b600d889628ebd373ec5bf2118b4c191e55a1
   Commits: 11
@@ -25,11 +27,11 @@ Branches in this repo (with details):
     8303dda | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: William Wright <162603673+wwrigh18@users.noreply.github.com> | Date: 2025-10-09T18:38:17Z | Created test_valid_keys and parameterized it to test for the 6 valid key sizes, task 4 complete
     920ebc9 | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: William Wright <162603673+wwrigh18@users.noreply.github.com> | Date: 2025-10-09T18:11:26Z | Fixed test_given_verifying_an_invalid_length_bytes_key_then_ipe_raised with a mock if the is_valid_key_size function so that the test succeeds, task 3 complete
 - main
-  SHA: 91e9375cdcb71b7e1cadd4ed68b88d9ef0904eec
-  Commits: 22
+  SHA: 2d7c27afab9c4d0b822a0fec2188e894b2092edc
+  Commits: 23
   Recent commits:
+    2d7c27a | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-10T00:40:32Z | Auto-update branch-info.txt
     91e9375 | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: William Wright <162603673+wwrigh18@users.noreply.github.com> | Date: 2025-10-10T00:40:19Z | Merge branch 'lab7'
     10db381 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-10T00:40:06Z | Auto-update branch-info.txt
     010b600 | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: William Wright <162603673+wwrigh18@users.noreply.github.com> | Date: 2025-10-10T00:39:39Z | Another attempt at fixing task 1
     2c56536 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-10T00:25:03Z | Auto-update branch-info.txt
-    cdeb30f | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: William Wright <162603673+wwrigh18@users.noreply.github.com> | Date: 2025-10-10T00:24:45Z | Merge branch 'lab7'
