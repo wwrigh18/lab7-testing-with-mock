@@ -1,13 +1,14 @@
 Branches in this repo (with details):
 
-- dependabot/docker/presidio-anonymizer/python-3.14-windowsservercore
-  SHA: 00d5f9116cb0fed9d6e29f8e74c7db26a001b549
-  Commits: 4
+- dependabot/docker/presidio-anonymizer/python-3.15.0a5-windowsservercore
+  SHA: 41e3203e0f09789d2c91e7400bebdff74052ed39
+  Commits: 25
   Recent commits:
-    00d5f91 | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-09T17:03:36Z | Bump python in /presidio-anonymizer
-    ea6e339 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T17:02:43Z | Auto-update branch-info.txt
-    40528ac | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T17:02:06Z | Auto-update branch-info.txt
-    ed713e2 | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-09T13:01:55-04:00 | Initial commit
+    41e3203 | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2026-02-01T03:47:26Z | Bump python in /presidio-anonymizer
+    bc6a570 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-11-24T03:44:55Z | Auto-update branch-info.txt
+    2d7c27a | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-10T00:40:32Z | Auto-update branch-info.txt
+    91e9375 | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: William Wright <162603673+wwrigh18@users.noreply.github.com> | Date: 2025-10-10T00:40:19Z | Merge branch 'lab7'
+    10db381 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-10T00:40:06Z | Auto-update branch-info.txt
 - dependabot/github_actions/actions/checkout-6
   SHA: 7d46c5d18ff540026a28c01c3d995e7975c744c8
   Commits: 24
@@ -27,11 +28,11 @@ Branches in this repo (with details):
     8303dda | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: William Wright <162603673+wwrigh18@users.noreply.github.com> | Date: 2025-10-09T18:38:17Z | Created test_valid_keys and parameterized it to test for the 6 valid key sizes, task 4 complete
     920ebc9 | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: William Wright <162603673+wwrigh18@users.noreply.github.com> | Date: 2025-10-09T18:11:26Z | Fixed test_given_verifying_an_invalid_length_bytes_key_then_ipe_raised with a mock if the is_valid_key_size function so that the test succeeds, task 3 complete
 - main
-  SHA: 2d7c27afab9c4d0b822a0fec2188e894b2092edc
-  Commits: 23
+  SHA: bc6a570bdfbf46b576fd79df566c72fcbd27313b
+  Commits: 24
   Recent commits:
+    bc6a570 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-11-24T03:44:55Z | Auto-update branch-info.txt
     2d7c27a | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-10T00:40:32Z | Auto-update branch-info.txt
     91e9375 | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: William Wright <162603673+wwrigh18@users.noreply.github.com> | Date: 2025-10-10T00:40:19Z | Merge branch 'lab7'
     10db381 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-10T00:40:06Z | Auto-update branch-info.txt
     010b600 | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: William Wright <162603673+wwrigh18@users.noreply.github.com> | Date: 2025-10-10T00:39:39Z | Another attempt at fixing task 1
-    2c56536 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-10T00:25:03Z | Auto-update branch-info.txt
